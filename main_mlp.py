@@ -1,7 +1,6 @@
-from models import mlp
+from model_mlp import mlp
 from include import *
 
-# implementation of "Learning Smooth Neural Functions via Lipschitz Regularization" by Liu et al. 2022
 if __name__ == '__main__':
   random.seed(1)
 

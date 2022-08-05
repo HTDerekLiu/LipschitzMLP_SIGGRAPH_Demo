@@ -1,4 +1,4 @@
-from models import lipmlp
+from model_lipmlp import lipmlp
 from include import *
 
 # implementation of "Learning Smooth Neural Functions via Lipschitz Regularization" by Liu et al. 2022

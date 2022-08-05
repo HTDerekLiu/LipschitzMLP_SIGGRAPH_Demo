@@ -1,5 +1,5 @@
 # LipschitzMLP_SIGGRAPH_Demo
-This repository contains the demo code for "Learning Smooth Neural Functions via Lipschitz Regularization" by Liu et al. 2022 published at SIGGRAPH. For more information about the paper, please visit our project page [here](https://nv-tlabs.github.io/lip-mlp/).
+This repository contains the homework exercise for "Learning Smooth Neural Functions via Lipschitz Regularization" by Liu et al. at SIGGRAPH 2022. For more information about the paper, please visit our project page [here](https://nv-tlabs.github.io/lip-mlp/).
 
 ## Dependencies
 This library depends on [JAX](https://github.com/google/jax) and some common python libraries such as [numpy](https://numpy.org), [matplotlib](https://matplotlib.org/stable/), [tqdm](https://tqdm.github.io), [ffmpeg](https://tqdm.github.io).
