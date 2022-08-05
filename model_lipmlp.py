@@ -30,7 +30,7 @@ class lipmlp:
 
   def weight_normalization(self, W, softplus_c):
     """
-    Lipschitz weight normalization based on the L-infinity norm (see Eq.9 in [Liu et al 2022])
+    Lipschitz weight normalization based on the L-infinity norm
     """
     ##############################
     # TODO: replace your code here
@@ -67,7 +67,7 @@ class lipmlp:
 
   def get_lipschitz_loss(self, params_net):
     """
-    This function computes the Lipschitz regularization Eq.7 in the [Liu et al 2022] 
+    This function computes the Lipschitz regularization Eq.10 in the [Liu et al 2022] 
     """
     ##############################
     # TODO: replace your code here for computing the Lipschitz regularization
